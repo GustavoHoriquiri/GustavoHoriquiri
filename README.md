@@ -1,120 +1,134 @@
+<!-- Portfólio de Gustavo Shoity Horiquiri / versão editorial -->
 <div align="center">
 
-<img width="100%" alt="SHOITY — banner em degradê roxo, azul e ciano, com texto animado" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,50:4F46E5,100:06B6D4&amp;height=170&amp;section=header&amp;text=SHOITY&amp;fontSize=58&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=PEOPLE%20ANALYTICS%20%2B%20BUSINESS%20INTELLIGENCE&amp;descSize=15&amp;descAlignY=60&amp;animation=twinkling" />
-
-<img width="100%" alt="Ilustração de Shoity trabalhando com dashboards e código, em um ambiente com iluminação roxa, azul e ciano" src="assets/shoity-workspace.png" />
-
-<br>
-
-<img width="620" alt="Texto animado: conectando RH, dados e decisões; da consulta SQL ao dashboard; automação para ganhar tempo e clareza" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=48&amp;lines=Conectando+RH%2C+dados+e+decis%C3%B5es.;Da+consulta+SQL+ao+dashboard.;Automa%C3%A7%C3%A3o+para+ganhar+tempo+e+clareza." />
-
-<strong>Gustavo Shoity Horiquiri · Analista de Recursos Humanos BI</strong>
-
-<p>Indicadores que contam histórias. Tecnologia que aproxima os dados da decisão.</p>
-
-<a href="https://www.linkedin.com/in/gustavo-shoity-horiquiri-428914189/"><img alt="Conversar no LinkedIn" src="https://img.shields.io/badge/CONVERSAR_NO_LINKEDIN-7C3AED?style=for-the-badge" /></a>
-<a href="https://github.com/GustavoHoriquiri?tab=repositories"><img alt="Explorar repositórios" src="https://img.shields.io/badge/EXPLORAR_REPOSIT%C3%93RIOS-087E99?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" /></a>
-
-<br><br>
-
-[Atuação](#atuação) &nbsp; ✦ &nbsp; [Ferramentas](#ferramentas) &nbsp; ✦ &nbsp; [Indicadores de RH](#indicadores-de-rh) &nbsp; ✦ &nbsp; [Agora](#agora)
+<img width="100%" alt="SHOITY · People Analytics e Business Intelligence" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7C3AED,50:4F46E5,100:06B6D4&amp;height=125&amp;text=SHOITY&amp;fontSize=44&amp;fontColor=FFFFFF&amp;fontAlignY=45&amp;desc=PEOPLE%20ANALYTICS%20%2B%20BUSINESS%20INTELLIGENCE&amp;descSize=12&amp;descAlignY=76&amp;animation=twinkling" />
 
 </div>
 
-## Atuação
+# Dados de RH que ajudam a decidir.
 
-<img alt="01 / ATUAÇÃO" src="https://img.shields.io/badge/01%20%2F%20ATUA%C3%87%C3%83O-7C3AED?style=for-the-badge" />
+Sou **Gustavo Shoity Horiquiri — Shoity**, Analista de Recursos Humanos BI. Trabalho na conexão entre **pessoas, dados e tecnologia**, com dashboards, consultas e automações para apoiar a gestão.
 
-**Entender a pergunta. Conectar os dados. Comunicar o que importa.**
+<img width="620" alt="Texto animado: People Analytics com contexto de negócio; SQL, modelagem e qualidade de dados; Power BI, DAX e automação de RH" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=17&amp;duration=2600&amp;pause=1200&amp;color=9882ED&amp;vCenter=true&amp;width=620&amp;height=36&amp;lines=People+Analytics+com+contexto+de+neg%C3%B3cio.;SQL%2C+modelagem+e+qualidade+de+dados.;Power+BI%2C+DAX+e+automa%C3%A7%C3%A3o+de+RH." />
 
-<table>
-<tr><td width="50%" valign="top">
-<sub>01 / PEOPLE ANALYTICS</sub>
-<h3>Do indicador à leitura de negócio</h3>
-<p>Dashboards de RH com medidas e contexto para acompanhar movimentações, jornada e desempenho.</p>
-<sub>Power BI · DAX · Power Query</sub>
-</td><td width="50%" valign="top">
-<sub>02 / AUTOMAÇÃO</sub>
-<h3>Menos rotina manual, mais análise</h3>
-<p>Validações de bases e comunicação automatizada de atualizações com tabelas HTML e Power Automate.</p>
-<sub>SQL · Power Automate · HTML</sub>
-</td></tr>
-<tr><td colspan="2" valign="top">
-<sub>03 / DADOS & HISTÓRICO</sub>
-<h3>Uma base consistente para cada análise</h3>
-<p>Consultas, tratamento e modelagem de dados de RH, incluindo histórico mensal de cargos e movimentações.</p>
-<sub>SQL Server · ETL · Modelagem de dados</sub>
-</td></tr>
-</table>
+<a href="https://github.com/GustavoHoriquiri?tab=repositories"><img alt="Explorar projetos e estudos" src="https://img.shields.io/badge/EXPLORAR_PROJETOS_E_ESTUDOS-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" /></a>
+<a href="https://www.linkedin.com/in/gustavo-shoity-horiquiri-428914189/"><img alt="Conversar no LinkedIn" src="https://img.shields.io/badge/CONVERSAR_NO_LINKEDIN-087E99?style=for-the-badge" /></a>
 
-[Explore meus projetos e estudos públicos →](https://github.com/GustavoHoriquiri?tab=repositories)
-
-## Ferramentas
-
-<img alt="02 / TECH STACK" src="https://img.shields.io/badge/02%20%2F%20TECH%20STACK-4F46E5?style=for-the-badge" />
-
-Da preparação da base à interface de quem usa o dashboard.
-
-<table>
-<tr><td width="26%" valign="top"><strong>Business Intelligence</strong><br><sub>Modelagem, medidas e visualização</sub></td><td><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-7C3AED?style=for-the-badge" />
-<img alt="DAX" src="https://img.shields.io/badge/DAX-6D28D9?style=for-the-badge" />
-<img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-5B21B6?style=for-the-badge" />
-<img alt="Excel" src="https://img.shields.io/badge/Excel-4F46E5?style=for-the-badge" /></td></tr>
-<tr><td width="26%" valign="top"><strong>Dados e automação</strong><br><sub>Consultas, transformação e integração</sub></td><td><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-4338CA?style=for-the-badge" />
-<img alt="Python" src="https://img.shields.io/badge/Python-3730A3?style=for-the-badge&amp;logo=python&amp;logoColor=FFFFFF" />
-<img alt="Pentaho / ETL" src="https://img.shields.io/badge/Pentaho%20%2F%20ETL-0E7490?style=for-the-badge" />
-<img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-087E99?style=for-the-badge" />
-<img alt="SharePoint" src="https://img.shields.io/badge/SharePoint-155E75?style=for-the-badge" /></td></tr>
-<tr><td width="26%" valign="top"><strong>Interfaces</strong><br><sub>Apresentação e experiência de uso</sub></td><td><img alt="HTML5" src="https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&amp;logo=html5&amp;logoColor=FFFFFF" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-4F46E5?style=for-the-badge&amp;logo=javascript&amp;logoColor=FFFFFF" />
-<img alt="CSS" src="https://img.shields.io/badge/CSS-087E99?style=for-the-badge&amp;logo=css&amp;logoColor=FFFFFF" /></td></tr>
-</table>
-
-## Indicadores de RH
-
-<img alt="03 / PEOPLE ANALYTICS" src="https://img.shields.io/badge/03%20%2F%20PEOPLE%20ANALYTICS-087E99?style=for-the-badge" />
-
-**Movimentação, jornada e talentos:** três perspectivas para entender a realidade das pessoas.
-
-| Movimentação & quadro | Jornada & frequência | Talentos & desempenho |
-| :--- | :--- | :--- |
-| Turnover e desligamentos | Absenteísmo | Avaliação de desempenho |
-| Efetivo / headcount | Horas extras | Nine Box |
-| Admissões e movimentações | Banco de horas | Desenvolvimento de talentos |
-
-<details>
-<summary><strong>Ver outros indicadores e análises da minha rotina</strong></summary>
-
-<br>
-
-| Frente | Análises |
-| :--- | :--- |
-| Retenção | Pesquisa de desligamento |
-| Histórico | Evolução de cargos e movimentações |
-| Consistências de ponto | Interjornada, DSR, marcações ausentes e ajustes |
-| Processos admissionais | Admissões recebidas e devolvidas, motivos de devolução e cadastros por filial |
-
-</details>
-
-## Agora
-
-<img alt="04 / EM CONSTRUÇÃO" src="https://img.shields.io/badge/04%20%2F%20EM%20CONSTRU%C3%87%C3%83O-7C3AED?style=for-the-badge" />
-
-**🌱 Construindo um portfólio que conecta minha experiência em RH e BI ao caminho completo da análise: da pergunta de negócio à decisão.**
-
-Explorando narrativas e insights no Power BI, interfaces com HTML Content e formas de tornar os indicadores mais claros para quem precisa agir.
-
-<img alt="Texto animado: Dados com contexto. Pessoas no centro." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=15&amp;duration=3000&amp;pause=1800&amp;color=22B8CF&amp;vCenter=true&amp;width=460&amp;height=32&amp;lines=Dados+com+contexto.+Pessoas+no+centro." />
+[Atuação](#atuação) · [Conhecimento em RH](#conhecimento-em-rh) · [Ferramentas](#ferramentas) · [Construindo agora](#construindo-agora)
 
 ---
 
-**Vamos trocar ideias sobre RH, dados e automação?**  
-[LinkedIn ↗](https://www.linkedin.com/in/gustavo-shoity-horiquiri-428914189/) &nbsp; · &nbsp; [GitHub ↗](https://github.com/GustavoHoriquiri)
+## Atuação
 
-<sub>Gustavo Shoity Horiquiri · People Analytics & Business Intelligence</sub>
+### 🟣 01 — Transformar indicadores em leitura de negócio
 
-<!-- Próxima evolução: adicionar capturas autorizadas de dashboards e links de
-repositórios específicos, quando disponíveis. Usar dados fictícios ou anonimizados.
-As frentes de atuação acima descrevem experiência, não projetos públicos fictícios. -->
+Desenvolvo dashboards e análises de RH para acompanhar movimentações, jornada e desempenho. Conecto **modelagem, medidas DAX e visualização** ao contexto de quem precisa interpretar os resultados.
 
-<img width="100%" alt="Rodapé em degradê roxo, azul e ciano" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,50:4F46E5,100:06B6D4&amp;height=100&amp;section=footer" />
+**Na prática:** acompanhamento de turnover, efetivo e absenteísmo; análises de horas extras e banco de horas; painéis de desempenho e talentos.
+
+`Power BI` `DAX` `Power Query` `People Analytics`
+
+### 🔵 02 — Automatizar o acompanhamento das informações
+
+Trabalho com validações de bases e comunicação de atualizações, combinando **consultas SQL, Power Automate e tabelas HTML**. O foco é tornar as conferências mais claras e reduzir etapas repetitivas.
+
+**Na prática:** identificação de inconsistências, acompanhamento da atualização de dados de RH e envio automatizado de informações.
+
+`SQL` `Power Automate` `HTML` `Integração de dados`
+
+### 🩵 03 — Preparar dados para análises consistentes
+
+Consulto, trato e organizo dados de RH para dar suporte aos painéis e às análises. Trabalho com **histórico mensal de cargos e movimentações**, preservando o contexto das mudanças ao longo do tempo.
+
+**Na prática:** consultas em SQL Server, transformação de bases, modelagem e validações de dados.
+
+`SQL Server` `Pentaho / ETL` `Modelagem de dados`
+
+> **Meu critério de partida:** qual decisão esta análise precisa apoiar?
+
+## Conhecimento em RH
+
+**Os temas que fazem parte da minha rotina, organizados pela pergunta de negócio.**
+
+### Quem entra, quem sai e como o quadro evolui?
+
+**Turnover · Headcount · Admissões · Desligamentos · Movimentações**  
+Leitura do quadro de pessoas e do histórico de cargos, com contexto para analisar mudanças e retenção.
+
+### Como a jornada está sendo utilizada?
+
+**Absenteísmo · Horas extras · Banco de horas**  
+Acompanhamento de frequência, saldos e ocorrências para apoiar a leitura da jornada de trabalho.
+
+### Como acompanhar desempenho e desenvolvimento?
+
+**Avaliação de desempenho · Nine Box · Desenvolvimento de talentos**  
+Organização de informações para dar visibilidade ao desempenho e apoiar discussões sobre pessoas.
+
+<details>
+<summary><strong>＋ Aprofundar: ponto, desligamentos e processos admissionais</strong></summary>
+
+- **Consistências de ponto:** interjornada, DSR, marcações ausentes e ajustes.
+- **Desligamentos:** pesquisa de desligamento e análise dos registros.
+- **Processos admissionais:** admissões recebidas e devolvidas, motivos de devolução e cadastros por filial.
+
+</details>
+
+## Ferramentas
+
+**A ferramenta muda conforme o problema. O objetivo é conectar a base à decisão.**
+
+#### BI & análise
+
+<img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-7C3AED?style=flat-square" />
+<img alt="DAX" src="https://img.shields.io/badge/DAX-7C3AED?style=flat-square" />
+<img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-7C3AED?style=flat-square" />
+<img alt="Excel" src="https://img.shields.io/badge/Excel-7C3AED?style=flat-square" />
+
+Modelagem, medidas, preparação de dados e dashboards.
+
+#### Dados & automação
+
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-4F46E5?style=flat-square" />
+<img alt="Python" src="https://img.shields.io/badge/Python-4F46E5?style=flat-square&amp;logo=python&amp;logoColor=FFFFFF" />
+<img alt="Pentaho / ETL" src="https://img.shields.io/badge/Pentaho%20%2F%20ETL-4F46E5?style=flat-square" />
+<img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-4F46E5?style=flat-square" />
+<img alt="SharePoint" src="https://img.shields.io/badge/SharePoint-4F46E5?style=flat-square" />
+
+Consultas, transformação de bases, integrações e rotinas automatizadas.
+
+#### Interfaces & comunicação visual
+
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-087E99?style=flat-square&amp;logo=html5&amp;logoColor=FFFFFF" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-087E99?style=flat-square&amp;logo=javascript&amp;logoColor=FFFFFF" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS-087E99?style=flat-square&amp;logo=css&amp;logoColor=FFFFFF" />
+
+Apresentação de informações e interfaces, incluindo HTML Content no Power BI.
+
+## Construindo agora
+
+🌱 **Transformando minha experiência em RH e BI em um portfólio que mostra o caminho completo: da pergunta de negócio à análise que ajuda a decidir.**
+
+Meu foco de evolução passa por narrativas e insights no Power BI, interfaces com HTML Content e formas de tornar os indicadores mais claros para quem precisa agir.
+
+[Explorar meus repositórios →](https://github.com/GustavoHoriquiri?tab=repositories)
+
+---
+
+## Por trás das análises
+
+<div align="center">
+
+<img width="320" alt="Ilustração de Shoity trabalhando com dashboards e código" src="assets/shoity-workspace.png" />
+
+<sub>Gustavo Shoity Horiquiri · RH, dados e tecnologia.</sub>
+
+</div>
+
+**Vamos trocar ideias sobre People Analytics, BI ou automação de RH?**  
+[Conversar no LinkedIn ↗](https://www.linkedin.com/in/gustavo-shoity-horiquiri-428914189/) · [Acompanhar no GitHub ↗](https://github.com/GustavoHoriquiri)
+
+<img width="100%" alt="Rodapé em degradê roxo, azul e ciano" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,50:4F46E5,100:06B6D4&amp;height=65&amp;section=footer" />
+
+<!-- As frentes descrevem experiência profissional, sem divulgar dados internos.
+Adicionar links de projetos específicos e imagens autorizadas quando disponíveis. -->
