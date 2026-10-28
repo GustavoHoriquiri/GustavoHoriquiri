@@ -58,15 +58,9 @@ Sou **Gustavo Shoity Horiquiri — Shoity**, Analista de Recursos Humanos BI. Tr
 
 [Explorar meus projetos e estudos →](https://github.com/GustavoHoriquiri?tab=repositories)
 
-## Por trás das análises
+## Dados em movimento
 
-<div align="center">
-
-<img width="260" alt="Ilustração de Shoity trabalhando com dashboards e código" src="assets/shoity-workspace.png" />
-
-<sub>Gustavo Shoity Horiquiri · RH, dados e tecnologia.</sub>
-
-</div>
+<img width="100%" alt="Animação de partículas percorrendo o caminho dos dados à análise, aos insights e à decisão" src="assets/data-motion.svg" />
 
 <img width="100%" alt="Vamos conectar? People Analytics, Business Intelligence e automação de RH." src="assets/connect.svg" />
 
