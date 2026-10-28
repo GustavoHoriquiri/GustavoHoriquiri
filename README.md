@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" alt="SHOITY — banner em degradê roxo, azul e ciano, com texto animado" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,50:4F46E5,100:06B6D4&amp;height=230&amp;section=header&amp;text=SHOITY&amp;fontSize=74&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=PEOPLE%20ANALYTICS%20%2B%20BUSINESS%20INTELLIGENCE&amp;descSize=15&amp;descAlignY=60&amp;animation=twinkling" />
+<img width="100%" alt="SHOITY — banner em degradê roxo, azul e ciano, com texto animado" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,50:4F46E5,100:06B6D4&amp;height=170&amp;section=header&amp;text=SHOITY&amp;fontSize=58&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=PEOPLE%20ANALYTICS%20%2B%20BUSINESS%20INTELLIGENCE&amp;descSize=15&amp;descAlignY=60&amp;animation=twinkling" />
+
+<img width="100%" alt="Ilustração de Shoity trabalhando com dashboards e código, em um ambiente com iluminação roxa, azul e ciano" src="assets/shoity-workspace.png" />
+
+<br>
 
 <img width="620" alt="Texto animado: conectando RH, dados e decisões; da consulta SQL ao dashboard; automação para ganhar tempo e clareza" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=48&amp;lines=Conectando+RH%2C+dados+e+decis%C3%B5es.;Da+consulta+SQL+ao+dashboard.;Automa%C3%A7%C3%A3o+para+ganhar+tempo+e+clareza." />
 
