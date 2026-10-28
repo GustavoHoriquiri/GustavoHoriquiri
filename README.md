@@ -18,6 +18,7 @@ Entender o que ele diz sobre pessoas é o que dá sentido à análise.
 
 <br><br>
 
+<a href="https://www.linkedin.com/in/gustavo-shoity-horiquiri-428914189/"><img alt="Vamos conversar no LinkedIn" src="https://img.shields.io/badge/Vamos%20conversar%20no%20LinkedIn-0A66C2?style=for-the-badge" /></a>
 <a href="https://github.com/GustavoHoriquiri?tab=repositories"><img alt="Explorar meus repositórios" src="https://img.shields.io/badge/EXPLORAR_REPOSIT%C3%93RIOS-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=00C9A7" /></a>
 
 </div>
@@ -34,21 +35,33 @@ Gosto de entender o problema antes de pensar no gráfico. Porque um painel bonit
 
 <br>
 
-## 🛠️ &nbsp; Minha caixa de ferramentas
+## 🛠️ &nbsp; Ferramentas que conectam as peças
 
 <div align="center">
 
-<img alt="Power BI" src="https://img.shields.io/badge/%E2%96%82%E2%96%84%E2%96%86%20Power_BI-F2C811?style=for-the-badge" />
-<img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
+<h4>ANÁLISE & BUSINESS INTELLIGENCE</h4>
+
+<img alt="▂▄▆ Power BI" src="https://img.shields.io/badge/%E2%96%82%E2%96%84%E2%96%86%20Power%20BI-D6A900?style=for-the-badge" />
+<img alt="DAX" src="https://img.shields.io/badge/DAX-007F8B?style=for-the-badge" />
+<img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-185C37?style=for-the-badge" />
+<img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" />
+
+<h4>DADOS & AUTOMAÇÃO</h4>
+
+<img alt="SQL / SQL Server" src="https://img.shields.io/badge/SQL%20%2F%20SQL%20Server-336791?style=for-the-badge" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=FFFFFF" />
-<br>
+<img alt="Pentaho · ETL" src="https://img.shields.io/badge/Pentaho%20%C2%B7%20ETL-B3232C?style=for-the-badge" />
+<img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge" />
+<img alt="SharePoint" src="https://img.shields.io/badge/SharePoint-007F80?style=for-the-badge" />
+
+<h4>INTERFACES & VISUALIZAÇÃO</h4>
+
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=FFFFFF" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=000000" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&amp;logo=css&amp;logoColor=FFFFFF" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-9B7900?style=for-the-badge&amp;logo=javascript&amp;logoColor=FFFFFF" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;logo=css&amp;logoColor=FFFFFF" />
 
 <br><br>
-
-<sub>BI e visualização · Consultas e análise de dados · Desenvolvimento web</sub>
+<sub>Da preparação da base à experiência de quem usa o dashboard.</sub>
 
 </div>
 
@@ -95,17 +108,80 @@ Gosto de entender o problema antes de pensar no gráfico. Porque um painel bonit
 
 <br>
 
-## 🗂️ &nbsp; Explore meu trabalho
+## 📊 &nbsp; Conhecimento aplicado em RH
 
-Este perfil é meu espaço para reunir projetos e estudos sobre **RH, dados e Business Intelligence**.
+Indicadores com contexto, leitura de negócio e atenção à qualidade dos dados.
 
-**[Ver repositórios →](https://github.com/GustavoHoriquiri?tab=repositories)**
-
-<!-- PERSONALIZAÇÃO: incluir aqui até três projetos reais, com link, problema,
-solução e resultado. Não publicar dados pessoais ou informações internas da empresa.
-Adicionar o LinkedIn quando o endereço correto estiver disponível. -->
+| Frente | O que acompanho e analiso |
+| :--- | :--- |
+| **🔄 Movimentação & retenção** | Turnover, admissões, desligamentos e pesquisa de desligamento |
+| **👥 Quadro de pessoas** | Efetivo / headcount, movimentações e histórico de cargos |
+| **⏱️ Jornada & frequência** | Absenteísmo, horas extras e saldo de banco de horas |
+| **🔎 Consistências de ponto** | Interjornada, DSR, marcações ausentes e ajustes de ponto |
+| **🌟 Talentos & desempenho** | Avaliação de desempenho, Nine Box e desenvolvimento de talentos |
+| **🗃️ Processos admissionais** | Admissões recebidas e devolvidas, motivos de devolução e cadastros por filial |
 
 <br>
+
+## 🚀 &nbsp; Frentes de trabalho em destaque
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>📊 People Analytics</h3>
+<p><strong>O desafio</strong><br>Dar visibilidade aos indicadores de pessoas e às suas variações.</p>
+<p><strong>Minha atuação</strong><br>Dashboards e análises de RH, conectando contexto, medidas e visualização.</p>
+<p><code>Power BI</code> <code>DAX</code><br><code>Power Query</code></p>
+</td>
+<td width="33%" valign="top">
+<h3>⚙️ Automação de RH</h3>
+<p><strong>O desafio</strong><br>Acompanhar atualizações e reduzir conferências repetitivas.</p>
+<p><strong>Minha atuação</strong><br>Validações de bases e comunicação automatizada com tabelas HTML e Power Automate.</p>
+<p><code>SQL</code> <code>Power Automate</code><br><code>HTML</code></p>
+</td>
+<td width="33%" valign="top">
+<h3>🧩 Histórico & dados</h3>
+<p><strong>O desafio</strong><br>Entender mudanças ao longo do tempo e manter uma base consistente para análise.</p>
+<p><strong>Minha atuação</strong><br>Consultas e tratamento de dados de RH, incluindo histórico mensal de cargos e movimentações.</p>
+<p><code>SQL Server</code> <code>ETL</code><br><code>Modelagem de dados</code></p>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>Experiências profissionais descritas em nível geral, preservando dados e materiais internos.</sub>
+<br><br>
+
+<a href="https://github.com/GustavoHoriquiri?tab=repositories"><img alt="Explorar projetos e estudos públicos" src="https://img.shields.io/badge/EXPLORAR_PROJETOS_E_ESTUDOS-007F8B?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" /></a>
+
+</div>
+
+<br>
+
+## 🌱 &nbsp; Construindo agora
+
+> **Transformando minha experiência em RH e BI em um portfólio que mostra o caminho completo: da pergunta de negócio à análise que ajuda a decidir.**
+
+Meu radar de evolução passa por **narrativas e insights no Power BI**, interfaces com **HTML Content** e formas de tornar a leitura dos indicadores mais clara e útil.
+
+<br>
+
+## 🤝 &nbsp; Vamos conectar?
+
+Curte trocar ideias sobre **People Analytics, Power BI, SQL e automação de processos de RH**? Vamos conversar.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gustavo-shoity-horiquiri-428914189/"><img alt="Vamos conversar no LinkedIn" src="https://img.shields.io/badge/Vamos%20conversar%20no%20LinkedIn-0A66C2?style=for-the-badge" /></a>
+<a href="https://github.com/GustavoHoriquiri"><img alt="Meu perfil no GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" /></a>
+
+</div>
+
+<br>
+
+<!-- Para adicionar uma prévia de dashboard: enviar ao repositório uma imagem
+ou GIF de um painel autorizado, com dados fictícios ou anonimizados, e inserir
+sua referência aqui. Não usar capturas de sistemas ou dados internos. -->
 
 <div align="center">
 
