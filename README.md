@@ -34,6 +34,26 @@ Gosto de entender o problema antes de pensar no gráfico. Porque um painel bonit
 
 <br>
 
+## 🛠️ &nbsp; Minha caixa de ferramentas
+
+<div align="center">
+
+<img alt="Power BI" src="https://img.shields.io/badge/%E2%96%82%E2%96%84%E2%96%86%20Power_BI-F2C811?style=for-the-badge" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=FFFFFF" />
+<br>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=FFFFFF" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=000000" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&amp;logo=css&amp;logoColor=FFFFFF" />
+
+<br><br>
+
+<sub>BI e visualização · Consultas e análise de dados · Desenvolvimento web</sub>
+
+</div>
+
+<br>
+
 ## ⚡ &nbsp; Meu ponto de encontro
 
 <table>
@@ -82,8 +102,7 @@ Este perfil é meu espaço para reunir projetos e estudos sobre **RH, dados e Bu
 **[Ver repositórios →](https://github.com/GustavoHoriquiri?tab=repositories)**
 
 <!-- PERSONALIZAÇÃO: incluir aqui até três projetos reais, com link, problema,
-solução e resultado. Adicionar ferramentas apenas depois de confirmar quais
-são utilizadas. Não publicar dados pessoais ou informações internas da empresa.
+solução e resultado. Não publicar dados pessoais ou informações internas da empresa.
 Adicionar o LinkedIn quando o endereço correto estiver disponível. -->
 
 <br>
