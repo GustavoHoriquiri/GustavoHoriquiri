@@ -1,11 +1,7 @@
 <!-- Portfólio de Gustavo Shoity Horiquiri / versão editorial -->
-<div align="center">
+<img width="100%" alt="Shoity — People Analytics e Business Intelligence. Pessoas no centro, dados com contexto." src="assets/profile-header.svg" />
 
-<img width="100%" alt="SHOITY · People Analytics e Business Intelligence" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7C3AED,50:4F46E5,100:06B6D4&amp;height=125&amp;text=SHOITY&amp;fontSize=44&amp;fontColor=FFFFFF&amp;fontAlignY=45&amp;desc=PEOPLE%20ANALYTICS%20%2B%20BUSINESS%20INTELLIGENCE&amp;descSize=12&amp;descAlignY=76&amp;animation=twinkling" />
-
-</div>
-
-# Dados de RH que ajudam a decidir.
+### Do dado de RH à decisão de negócio.
 
 Sou **Gustavo Shoity Horiquiri — Shoity**, Analista de Recursos Humanos BI. Trabalho na conexão entre **pessoas, dados e tecnologia**, com dashboards, consultas e automações para apoiar a gestão.
 
@@ -14,53 +10,42 @@ Sou **Gustavo Shoity Horiquiri — Shoity**, Analista de Recursos Humanos BI. Tr
 <a href="https://github.com/GustavoHoriquiri?tab=repositories"><img alt="Explorar projetos e estudos" src="https://img.shields.io/badge/EXPLORAR_PROJETOS_E_ESTUDOS-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" /></a>
 <a href="https://www.linkedin.com/in/gustavo-shoity-horiquiri-428914189/"><img alt="Conversar no LinkedIn" src="https://img.shields.io/badge/CONVERSAR_NO_LINKEDIN-087E99?style=for-the-badge" /></a>
 
-[Atuação](#atuação) · [Conhecimento em RH](#conhecimento-em-rh) · [Ferramentas](#ferramentas) · [Construindo agora](#construindo-agora)
+[O que eu construo](#o-que-eu-construo) · [Conhecimento em RH](#conhecimento-em-rh) · [Ferramentas](#ferramentas) · [Construindo agora](#construindo-agora)
 
 ---
 
-## Atuação
+## O que eu construo
 
-### 🟣 01 — Transformar indicadores em leitura de negócio
+<img width="100%" alt="01 People Analytics — Dashboards de RH para acompanhar movimentações, jornada e desempenho. Power BI, DAX e Power Query." src="assets/01-analytics.svg" />
 
-Desenvolvo dashboards e análises de RH para acompanhar movimentações, jornada e desempenho. Conecto **modelagem, medidas DAX e visualização** ao contexto de quem precisa interpretar os resultados.
+<img width="100%" alt="02 Automação de RH — Validações de bases e comunicação automatizada de atualizações. SQL, Power Automate e HTML." src="assets/02-automation.svg" />
 
-**Na prática:** acompanhamento de turnover, efetivo e absenteísmo; análises de horas extras e banco de horas; painéis de desempenho e talentos.
+<img width="100%" alt="03 Dados e histórico — Consultas, tratamento e histórico mensal de cargos e movimentações. SQL Server, ETL e modelagem." src="assets/03-data.svg" />
 
-`Power BI` `DAX` `Power Query` `People Analytics`
+<details>
+<summary><strong>＋ Como essas frentes aparecem no meu trabalho</strong></summary>
 
-### 🔵 02 — Automatizar o acompanhamento das informações
+- **People Analytics:** acompanhamento de turnover, efetivo, absenteísmo, horas extras e banco de horas; painéis de desempenho e talentos.
+- **Automação:** identificação de inconsistências, acompanhamento de atualizações e envio automatizado de informações de RH.
+- **Dados:** consultas em SQL Server, transformação de bases, modelagem e validação de históricos.
 
-Trabalho com validações de bases e comunicação de atualizações, combinando **consultas SQL, Power Automate e tabelas HTML**. O foco é tornar as conferências mais claras e reduzir etapas repetitivas.
-
-**Na prática:** identificação de inconsistências, acompanhamento da atualização de dados de RH e envio automatizado de informações.
-
-`SQL` `Power Automate` `HTML` `Integração de dados`
-
-### 🩵 03 — Preparar dados para análises consistentes
-
-Consulto, trato e organizo dados de RH para dar suporte aos painéis e às análises. Trabalho com **histórico mensal de cargos e movimentações**, preservando o contexto das mudanças ao longo do tempo.
-
-**Na prática:** consultas em SQL Server, transformação de bases, modelagem e validações de dados.
-
-`SQL Server` `Pentaho / ETL` `Modelagem de dados`
-
-> **Meu critério de partida:** qual decisão esta análise precisa apoiar?
+</details>
 
 ## Conhecimento em RH
 
 **Os temas que fazem parte da minha rotina, organizados pela pergunta de negócio.**
 
-### Quem entra, quem sai e como o quadro evolui?
+#### ↗ Movimentação & quadro
 
 **Turnover · Headcount · Admissões · Desligamentos · Movimentações**  
 Leitura do quadro de pessoas e do histórico de cargos, com contexto para analisar mudanças e retenção.
 
-### Como a jornada está sendo utilizada?
+#### ◷ Jornada & frequência
 
 **Absenteísmo · Horas extras · Banco de horas**  
 Acompanhamento de frequência, saldos e ocorrências para apoiar a leitura da jornada de trabalho.
 
-### Como acompanhar desempenho e desenvolvimento?
+#### ✦ Talentos & desempenho
 
 **Avaliação de desempenho · Nine Box · Desenvolvimento de talentos**  
 Organização de informações para dar visibilidade ao desempenho e apoiar discussões sobre pessoas.
@@ -119,7 +104,7 @@ Meu foco de evolução passa por narrativas e insights no Power BI, interfaces c
 
 <div align="center">
 
-<img width="320" alt="Ilustração de Shoity trabalhando com dashboards e código" src="assets/shoity-workspace.png" />
+<img width="260" alt="Ilustração de Shoity trabalhando com dashboards e código" src="assets/shoity-workspace.png" />
 
 <sub>Gustavo Shoity Horiquiri · RH, dados e tecnologia.</sub>
 

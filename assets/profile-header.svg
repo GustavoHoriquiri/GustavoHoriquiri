@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="255" viewBox="0 0 1200 255" role="img" aria-label="Shoity — People Analytics e Business Intelligence">
+<defs><linearGradient id="g"><stop stop-color="#7c3aed"/><stop offset=".5" stop-color="#4f46e5"/><stop offset="1" stop-color="#06b6d4"/></linearGradient><radialGradient id="glow"><stop stop-color="#7c3aed" stop-opacity=".4"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#a78bfa" stroke-opacity=".07"/></pattern></defs>
+<rect x="1" y="1" width="1198" height="253" rx="22" fill="#101322" stroke="#393451"/>
+<rect width="1200" height="255" rx="22" fill="url(#grid)"/><ellipse cx="950" cy="100" rx="380" ry="230" fill="url(#glow)"/>
+<rect x="38" y="35" width="4" height="16" rx="2" fill="#a78bfa"/>
+<text x="54" y="48" font-family="Arial,sans-serif" font-size="12" letter-spacing="3" fill="#b6accd">PEOPLE ANALYTICS / BUSINESS INTELLIGENCE</text>
+<text x="38" y="123" font-family="Arial,sans-serif" font-weight="700" font-size="65" fill="#f4f4ff">SHOITY<tspan fill="#22d3ee">.</tspan></text>
+<text x="40" y="163" font-family="Arial,sans-serif" font-size="21" fill="#d3cfe2">Pessoas no centro. Dados com contexto.</text>
+<text x="40" y="204" font-family="Arial,sans-serif" font-size="14" fill="#9695ac">RH + DADOS + AUTOMAÇÃO</text>
+<g transform="translate(820 53)"><rect width="328" height="152" rx="14" fill="#121829" stroke="#49405e"/><circle cx="20" cy="18" r="3" fill="#a78bfa"/><circle cx="32" cy="18" r="3" fill="#6366f1"/><circle cx="44" cy="18" r="3" fill="#22d3ee"/><path d="M20 128H307M20 90H307M20 52H307" stroke="#24283b"/><g fill="url(#g)"><rect x="28" y="95" width="22" height="33" rx="3"/><rect x="63" y="80" width="22" height="48" rx="3"/><rect x="98" y="86" width="22" height="42" rx="3"/><rect x="133" y="59" width="22" height="69" rx="3"/><rect x="168" y="68" width="22" height="60" rx="3"/><rect x="203" y="44" width="22" height="84" rx="3"/><rect x="238" y="53" width="22" height="75" rx="3"/><rect x="273" y="32" width="22" height="96" rx="3"/></g><path id="trend" d="M23 99L73 83L115 88L153 64L195 70L237 42L293 28" fill="none" stroke="#67e8f9" stroke-width="2.5"/><circle r="4" fill="#ecfeff"><animateMotion dur="5s" repeatCount="indefinite" path="M23 99L73 83L115 88L153 64L195 70L237 42L293 28"/></circle></g>
+<rect x="25" y="248" width="1150" height="3" rx="1.5" fill="url(#g)"/>
+</svg>
